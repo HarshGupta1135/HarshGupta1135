@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akash Verma</h1>
+<h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
 <h3 align="center"></h3>
 
 ## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px"> Socials:
